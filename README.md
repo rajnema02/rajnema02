@@ -1,15 +1,15 @@
-# 👋 About Me
+#  About Me
 
-- 💻 Currently working as a Junior Developer Intern and building full-stack web applications.
-- 🚀 Experienced with React.js, Angular, Node.js, Express.js, MongoDB, MySQL and REST APIs.
-- 🤖 Exploring AI/ML, Deep Learning, Generative AI, LLMs and AI Agents.
-- 🌱 Currently improving my skills in Data Structures & Algorithms and software development.
-- 🤝 Open to collaboration on full-stack and AI-based projects.
-- 💡 Interested in building practical and real-world technology solutions.
+- Currently working as a Junior Developer Intern and building full-stack web applications.
+- Experienced with React.js, Angular, Node.js, Express.js, MongoDB, MySQL and REST APIs.
+- Exploring AI/ML, Deep Learning, Generative AI, LLMs and AI Agents.
+- Currently improving my skills in Data Structures & Algorithms and software development.
+- Open to collaboration on full-stack and AI-based projects.
+- Interested in building practical and real-world technology solutions.
 
 ---
 
-# 🌐 Socials
+# Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/raj-nema-9a8668256/)
 
@@ -19,7 +19,7 @@
 
 ---
 
-# 💻 Tech Stack
+# Tech Stack
 
 ### Languages
 
@@ -70,33 +70,33 @@
 
 ---
 
-# 💼 Experience
+# Experience
 
 ### Junior Developer Intern
 **Innobimb Infotech Pvt Ltd — Bhopal, India**
 
-- 💻 Developed responsive web features using React.js, Node.js and MongoDB.
-- 🔗 Integrated 15+ REST APIs for efficient data flow and performance.
-- 🤝 Worked with Agile teams and followed SDLC practices.
-- 🚀 Contributed to 5+ full-stack applications using React.js, Angular, Node.js and REST APIs.
+-  Developed responsive web features using React.js, Node.js and MongoDB.
+-  Integrated 15+ REST APIs for efficient data flow and performance.
+-  Worked with Agile teams and followed SDLC practices.
+-  Contributed to 5+ full-stack applications using React.js, Angular, Node.js and REST APIs.
 
 ---
 
-# 🚀 Projects
+#  Projects
 
-## 📝 MPSOS Exam Portal
+##  MPSOS Exam Portal
 
 - Developed an online exam portal with RBAC and timed submissions.
 - Performed MongoDB CRUD operations for efficient data management.
 - Implemented JWT authentication for secure user access control.
 
-## 🤖 AI-Based Mental Health Detection System
+##  AI-Based Mental Health Detection System
 
 - Built a sentiment analysis system using Hugging Face APIs.
 - Integrated external APIs with error handling and async processing.
 - Implemented real-time processing for multiple user inputs.
 
-## 💻 Client & In-House Projects
+##  Client & In-House Projects
 
 Contributed to **5+ full-stack applications**, including:
 
@@ -110,7 +110,7 @@ Worked with React.js, Angular, Node.js, REST APIs and Agile practices.
 
 ---
 
-# 🎓 Education
+#  Education
 
 ### B.Tech — Computer Science
 **Sagar Institute of Research and Technology, Bhopal**
@@ -129,7 +129,7 @@ Percentage: **94%** | 2019–20
 
 ---
 
-# 📜 Certifications
+#  Certifications
 
 - OOP Fundamentals — NPTEL IIT Roorkee — Score: 70%
 - Full Stack Web Development
@@ -137,15 +137,15 @@ Percentage: **94%** | 2019–20
 
 ---
 
-# ❤️ Interests
+#  Interests
 
-- 📚 Data Structures & Algorithms
-- 🤖 Artificial Intelligence
-- 🚀 Emerging Technologies
+-  Data Structures & Algorithms
+-  Artificial Intelligence
+-  Emerging Technologies
 
 ---
 
-# 📊 GitHub Stats
+#  GitHub Stats
 
 ![Raj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajnema02&show_icons=true)
 
@@ -153,7 +153,7 @@ Percentage: **94%** | 2019–20
 
 ---
 
-# 👨‍💻 Profile
+#  Profile
 
 **GitHub:** [rajnema02](https://github.com/rajnema02)
 
